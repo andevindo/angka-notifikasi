@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:context="andevindo.com.angkanotifikasi.MainActivity">
+    <item
+        android:id="@+id/notification"
+        android:actionLayout="@layout/actionbar_notification"
+        android:icon="@drawable/ic_notifications_24dp"
+        android:title="Notification"
+        app:showAsAction="always"
+        />
+</menu>
